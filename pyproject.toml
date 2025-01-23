@@ -10,6 +10,9 @@ python = "^3.11"
 pandas = "^2.2.3"
 blob = "^0.16"
 openpyxl = "^3.1.5"
+pytest = "^8.3.4"
+requests = "^2.32.3"
+black = "^24.10.0"
 
 
 [build-system]
